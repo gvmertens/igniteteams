@@ -12,7 +12,7 @@ export default function Groups() {
   const [groups, setGroups] = useState([]);
 
   return (
-    <Container>
+    <Container >
       <Header />
         <Highlight title="Turmas" subtitle="Jogue com as suas turmas" />
 
